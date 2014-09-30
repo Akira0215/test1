@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TopNewGrid</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="drawer_btn_rss">欄位編輯</string>
+    <string name="subscribe_my_category">顯示報價欄位</string>
+<string name="subscribe_more_category">隱藏報價欄位</string>
+<string name="subscribe_manager_category_info">點選可隱藏或顯示欄位</string>
+<string name="subscribe_manager_category_info_2">點選可隱藏或顯示欄位，長按拖曳排序</string>
+</resources>
