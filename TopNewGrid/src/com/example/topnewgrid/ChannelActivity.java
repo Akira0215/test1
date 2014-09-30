@@ -63,6 +63,8 @@ public class ChannelActivity extends Activity implements OnItemClickListener {
 		initView();
 		initData();
 		
+		System.out.println("123");
+		
 		int[] location = new int[2];
 	  	otherGridView.getLocationOnScreen(location);
 	    int x = location[0];
